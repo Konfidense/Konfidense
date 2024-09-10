@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python for beginners**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python** and making pull requests on GitHub
 
 - 👯 I’m looking to collaborate on **projects**
 
